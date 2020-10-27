@@ -1,0 +1,25 @@
+a:link {
+  color: rgb(41,139,17);
+  text-decoration: none;
+  border: 1px solid rgb(123,99,11);
+  background-color:rgb(108, 201, 230);
+  padding: 1px ;
+}
+a:visited {
+  color: blue
+}
+a:hover {
+  text-decoration: underline; 
+  background-color: azure;
+  box-shadow: 10px 0 5px rgb(108, 201, 230);
+
+}
+ a.current{
+   color: black
+ } 
+ a:active {
+   color: azure
+ }
+ li {
+   margin-bottom: 20px 
+ }
